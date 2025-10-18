@@ -104,7 +104,7 @@ contract Encoding {
 
     // As of 0.8.13, you can now do `string.concat(string1, string2)`12312312
 
-    // This abi.encoding stuff seems a little hard just to do string concatenation... is this for anything else?
+    // This abi.encoding st123213uff seems a little hard just to do string concatenation... is this for anything else?
     // Why yes, yes it is.
     // Since we know that our solidity is just going to get compiled down to this binary stuff to send a transaction...
 
